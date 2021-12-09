@@ -1,4 +1,4 @@
-# nginx-error-pages
+# Nginx-Error-Pages
 Nice error pages(4xx and 5xx) for Nginx
 
 # Temp1---Chinese
